@@ -1,0 +1,14 @@
+/.clang-format
+/.clang-tidy
+/.gitignore
+/EgammaAnalysis/ElectronTools/
+/PhysicsTools/NanoAOD/
+/PhysicsTools/PatAlgos/
+/RecoEgamma/EgammaTools/
+/RecoEgamma/ElectronIdentification/
+/TopQuarkAnalysis/Configuration/
+/KaMuCa/
+/KinZfitter/
+/UFHZZAnalysisRun2/
+/ZZMatrixElement/
+install.sh
